@@ -25,7 +25,7 @@
                 <div class="overlay">
                     <h1>AÑADIR SESIÓN</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
-                    <b-button variant="success" to="//sesion/form" class="boton">AÑADIR</b-button>
+                    <b-button variant="success" to="/sesion/form" class="boton">AÑADIR</b-button>
                 </div>
             </div>
             <div class="imagen">
